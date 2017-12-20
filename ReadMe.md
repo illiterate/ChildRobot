@@ -19,7 +19,7 @@
 直接用pip安装就好
 > sudo pip3 install baidu-aip
 
-#使用
+# 使用
 > 利用Python开发平台运行main.py就好
 
 ![](http://img02.sogoucdn.com/app/a/100520146/13b6a416935eb4f37929e53f419f504f)

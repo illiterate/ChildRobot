@@ -12,14 +12,14 @@
 > sudo apt-get install sox libsox-fmt-all
 
 # 2.安装pyaudio
-用pip安装pyaudio时报错，缺少portaudio.h。在网上查了查用下面的命令安装不会报错
+用pip安装pyaudio时报错，缺少portaudio.h。在网上查了查用下面的命令安装不会报错。
 > sudo apt-get install python-pyaudio python3-pyaudio
 
 # 3.安装百度语音的Python SDK
-直接用pip安装就好
+直接用pip安装就好。
 > sudo pip3 install baidu-aip
 
 # 使用
-> 利用Python开发平台运行main.py就好
+> 由于我把我的API隐藏了，所以你们需要先在百度开放平台和图灵机器人去申请账号和API，在源文件中相应的位置补充上，再利用Python开发平台运行main.py就好。
 
 ![](http://img02.sogoucdn.com/app/a/100520146/13b6a416935eb4f37929e53f419f504f)
